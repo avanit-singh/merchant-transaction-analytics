@@ -1,3 +1,5 @@
+![Analysis](https://github.com/avanit-singh/merchant-transaction-analytics/actions/workflows/run_analysis.yml/badge.svg)
+
 # Merchant Transaction Analytics Dashboard — Fintech Domain
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
