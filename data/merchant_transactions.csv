@@ -1,0 +1,21 @@
+transaction_id,merchant_id,merchant_name,merchant_category,transaction_date,amount,status,payment_gateway,settlement_date,mdr_rate
+T001,M001,QuickMart Retail,Retail,2025-10-01,3500.00,SUCCESS,Paytm PG,2025-10-02,0.90
+T002,M002,FoodHub Express,Food & Beverage,2025-10-01,850.00,SUCCESS,Paytm PG,2025-10-02,1.80
+T003,M003,TechZone Electronics,Electronics,2025-10-01,25000.00,SUCCESS,Paytm PG,2025-10-02,0.85
+T004,M001,QuickMart Retail,Retail,2025-10-02,1200.00,FAILED,Paytm PG,,0.90
+T005,M004,MediCare Pharmacy,Healthcare,2025-10-02,2200.00,SUCCESS,Paytm PG,2025-10-03,1.20
+T006,M002,FoodHub Express,Food & Beverage,2025-10-02,650.00,SUCCESS,Paytm PG,2025-10-03,1.80
+T007,M005,StyleHub Fashion,Fashion,2025-10-03,4500.00,FAILED,Paytm PG,,1.20
+T008,M003,TechZone Electronics,Electronics,2025-10-03,18000.00,SUCCESS,Paytm PG,2025-10-04,0.85
+T009,M006,GreenGrocer Fresh,Grocery,2025-10-03,3200.00,SUCCESS,Paytm PG,2025-10-04,0.90
+T010,M001,QuickMart Retail,Retail,2025-10-04,5600.00,SUCCESS,Paytm PG,2025-10-05,0.90
+T011,M004,MediCare Pharmacy,Healthcare,2025-10-04,1800.00,SUCCESS,Paytm PG,2025-10-05,1.20
+T012,M007,AutoService Hub,Automotive,2025-10-05,12000.00,PENDING,Paytm PG,,1.50
+T013,M002,FoodHub Express,Food & Beverage,2025-10-05,920.00,SUCCESS,Paytm PG,2025-10-06,1.80
+T014,M005,StyleHub Fashion,Fashion,2025-10-06,7800.00,SUCCESS,Paytm PG,2025-10-07,1.20
+T015,M006,GreenGrocer Fresh,Grocery,2025-10-06,4100.00,SUCCESS,Paytm PG,2025-10-07,0.90
+T016,M003,TechZone Electronics,Electronics,2025-10-07,32000.00,SUCCESS,Paytm PG,2025-10-08,0.85
+T017,M008,TravelEase Agency,Travel,2025-10-07,45000.00,FAILED,Paytm PG,,1.80
+T018,M001,QuickMart Retail,Retail,2025-10-08,2800.00,SUCCESS,Paytm PG,2025-10-09,0.90
+T019,M009,HomeDecor Plus,Home & Living,2025-10-08,6500.00,SUCCESS,Paytm PG,2025-10-09,1.20
+T020,M004,MediCare Pharmacy,Healthcare,2025-10-09,3400.00,SUCCESS,Paytm PG,2025-10-10,1.20
